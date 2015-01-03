@@ -1,0 +1,3 @@
+rock, It is a word the describes a rock of some sort.
+people, One of the wonders of the world.
+a, The first letter of a dictionary.
